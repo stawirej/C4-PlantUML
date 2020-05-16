@@ -4,6 +4,7 @@
 
 Renders Person and Person_Ext with portrait icon inside rectangle. This makes human users of
 software system more clearer in the diagrams.
+
 ![](images/person_icon.png)
 
 ## External container and component
